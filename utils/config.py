@@ -1,0 +1,2 @@
+ENABLE_PROXY = True
+MSG_DELAY = 2
